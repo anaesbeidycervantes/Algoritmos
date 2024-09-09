@@ -36,3 +36,5 @@ print(f"Tu edad es {ages[0]} años.")
 print(f"La edad de tu gato es de {ages[1]} años.")
 print(f"La edad de tu perro es de {ages[2]} años.")
 print(type(ages))
+
+#"Programa que calcula "
