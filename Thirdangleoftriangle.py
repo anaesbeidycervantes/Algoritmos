@@ -1,3 +1,4 @@
+#El programa calcula el valor del 3er angulo interno de cualquier trinagulo
 def third_angle(angle1, angle2):
     # Validar que los ángulos sean mayores a 0 y menores a 180
     if angle1 <= 0 or angle2 <= 0:

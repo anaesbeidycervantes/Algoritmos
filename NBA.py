@@ -1,3 +1,4 @@
+#indica cuantos puntos anotaria un jugardor si jugara el tiempo que ingresa el usuario en un partido
 def nba_extrap(ppg, mpg):
     # Verificar si mpg es 0 para evitar división por cero
     if mpg == 0:

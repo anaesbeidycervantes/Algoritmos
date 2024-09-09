@@ -1,3 +1,4 @@
+
 import math  # Importa el módulo de matemáticas para usar funciones matemáticas
 
 

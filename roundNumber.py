@@ -1,3 +1,4 @@
+#Este programa redondea numeros flotantes con 2 decimales
 def redondear_a_dos_decimales(numero):
     return round(numero, 2)
 

@@ -1,3 +1,4 @@
+#El programa indica el precio del mango que saldria segun la promocion que se esta indicando el porblema
 def mango(quantity, price):
     # Calcular el número de grupos de 3 mangos
     free_groups = quantity // 3
